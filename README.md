@@ -1,2 +1,2 @@
 # calculadora-em-python
- Calculadora desenvolvida para aprender sobre a biblioteca TKInter
+ Projeto de calculadora desenvolvida para aprender mais sobre a biblioteca TKInter
